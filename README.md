@@ -1,6 +1,6 @@
 <img src="https://campuspe.com/logo1.svg" alt="campuspe-log" width="200">
 
-![Screenshot 1](logo1.svg)
+![Screenshot 1](download.png)
 
 # Campuspe Fullstack Java Internship
 Powered by [Campuspe](https://campuspe.com)
